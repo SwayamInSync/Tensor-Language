@@ -1,3 +1,2 @@
 # [WIP] Tensor Language
-
-This is the programming language designed specifically to perform and support Machine Learning operations
+A programming language designed and develop to natively support tensor operations.
